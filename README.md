@@ -1,4 +1,6 @@
-# BuzzPoll - A hellbanning script for the mobile web
+# BuzzPoll
+
+#### A hellbanning script for the mobile web
 
 BuzzPoll is a script intended to intentionally drain the battery of a mobile device.
 
